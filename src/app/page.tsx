@@ -20,7 +20,7 @@ export default function Home() {
           You saw that?
         </h1>
         <p className="text-[16px] leading-[27px] text-[#432826] font-[400] dark:text-white">
-          The bee is following the path. Isn't that cool?
+          The bee is following the path. Isn&apos;t that cool?
         </p>
       </div>
     </main>
