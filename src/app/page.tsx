@@ -8,7 +8,7 @@ export default function Home() {
           SVG Path Animation
         </h1>
         <p className="text-[16px] leading-[27px] text-[#432826] font-[400] text-center dark:text-white">
-          This is a simple animation of a bee following a path using GSAP
+          This is a simple animation of a car following a path using GSAP
           MotionPath plugin.
         </p>
       </div>
@@ -20,7 +20,7 @@ export default function Home() {
           You saw that?
         </h1>
         <p className="text-[16px] leading-[27px] text-[#432826] font-[400] dark:text-white">
-          The bee is following the path. Isn&apos;t that cool?
+          The car is following the path. Isn&apos;t that cool?
         </p>
       </div>
     </main>
